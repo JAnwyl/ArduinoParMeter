@@ -1,0 +1,5 @@
+Photo Cell
+
+Pot (For syncing with Apogee Meter)
+
+Arduino
