@@ -1,0 +1,7 @@
+Case for sensor
+Waterproof cable
+Photo Sensor
+Resistors for circuit
+Pot for tuning
+Uno
+Lcd for display of readings
